@@ -59,7 +59,5 @@ Consider how many days elapse on Earth in the time that Mars circles the Sun onc
 Visually estimate the result by plotting the daily minimum temperature.
 Export the DataFrame to a CSV file.
 
-Resorces: 
-
-Resources git.bootcampcontent.com/University-of-Adelaide / github.com/Andrew-Bourgeois /AskBCS Learning Assistant/ChatGPT
+Resorces: git.bootcampcontent.com/University-of-Adelaide | github.com/Andrew-Bourgeois | AskBCS Learning Assistant | ChatGPT 
 
