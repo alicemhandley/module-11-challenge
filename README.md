@@ -61,5 +61,5 @@ Export the DataFrame to a CSV file.
 
 Resorces: 
 
-Resources git.bootcampcontent.com/University-of-Adelaide https://github.com/Andrew-Bourgeois/AskBCS Learning Assistant/ChatGPT
+Resources git.bootcampcontent.com/University-of-Adelaide / github.com/Andrew-Bourgeois /AskBCS Learning Assistant/ChatGPT
 
